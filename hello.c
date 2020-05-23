@@ -1,6 +1,6 @@
 #include<stdio.h>
 main()
 {
-	printf("Hello mahesh");
-	printf("");
+	printf("Hello all TLs");
+	
 }
